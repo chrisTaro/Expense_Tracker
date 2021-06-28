@@ -1,7 +1,10 @@
 # Expense Tracker 
 ## Mobile Programming Assignment
 
+## Main Screen
 ![Main_Screen](MainScreen.png)
+
+## Add or Edit Expense Screen
 ![Edit_Add](editoraddExpense.png)
 
 ## General info
@@ -13,5 +16,5 @@ and their least expensive expense.
 ## Technologies
 Project is created with:
 
-Android Studio
-Java
+* Android Studio
+* Java
