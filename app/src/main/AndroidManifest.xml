@@ -6,8 +6,23 @@
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
-        android:supportsRtl="true"
-        android:theme="@style/Theme.Expense_tracker" />
+        android:theme="@style/AppTheme">
+        <activity android:name=".ProviderHandler"></activity>
+        <activity android:name=".PickCategory" />
+        <activity android:name=".EditExpense" />
+        <activity android:name=".CreateCategory" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider android:name="com.example.expense_tracker.MinMaxProvider"
+            android:authorities="com.example.expense_tracker.MinMaxProvider"/>
+    </application>
 
 </manifest>

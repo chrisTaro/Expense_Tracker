@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">expense_tracker</string>
+    <string name="app_name">Assignment_7</string>
+    <string name="home">Home</string>
+    <string name="create">Create</string>
+    <string name="welcome">Welcome to your Expense Tracker!</string>
+    <string name="name">Name</string>
+    <string name="category">Category</string>
+    <string name="date">Date</string>
+    <string name="save">Save</string>
+    <string name="amount">Amount $</string>
+    <string name="note">Note</string>
+    <string name="add_new">Add New</string>
+    <string name="title_activity_practice_set">PracticeSet</string>
+    <string name="list_of_entries">List Of Expenses</string>
+    <string name="delete_expense">Delete Expense</string>
+    <string name="list_of_categories">List Of Categories</string>
+    <string name="add_category">Add Category</string>
+    <string name="enter_category">Enter New Category</string>
+    <string name="create_new">Create New</string>
+    <string name="expense_stats">Expense Stats</string>
+    <string name="max">Most Expensive</string>
+    <string name="min">Least Expensive</string>
 </resources>
