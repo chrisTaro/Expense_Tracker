@@ -2,7 +2,7 @@
 ## Mobile Programming Assignment
 
 ![Main_Screen](MainScreen.png)
-![Edit_Add](edit/addExpense.png.png)
+![Edit_Add](editoraddExpense.png.png)
 
 ## General info
 This project was created to help the user to keep/maintain an expense list. Users are able to list the 
