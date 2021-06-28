@@ -1,5 +1,5 @@
 # Expense Tracker 
-## Mobile Programming Assignment
+##### Mobile Programming Assignment
 
 ## Main Screen
 ![Main_Screen](MainScreen.png)
